@@ -1,5 +1,5 @@
 {
-  "name": "basic-ui",
+  "name": "doit-ui",
   "version": "0.1.0",
   "description": "A basic components library",
   "module": "es/index.js",
